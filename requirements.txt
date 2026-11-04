@@ -1,0 +1,15 @@
+speechrecognition
+pyttsx3
+pyaudio
+pvporcupine
+requests
+ollama
+pandas
+psutil
+pyautogui
+beautifulsoup4
+wikipedia
+PyPDF2
+python-dotenv
+faiss-cpu
+pypdf sentence-transformers chromadb

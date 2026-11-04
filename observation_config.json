@@ -1,0 +1,5 @@
+{
+    "observation_enabled": true,
+    "capture_interval": 3,
+    "save_screenshots": false
+}
